@@ -1,5 +1,5 @@
 ---
-service: serverless-react-boilerplate
+service: react-AWS
 frameworkVersion: "2"
 useDotenv: true
 variablesResolutionMode: 20210326
